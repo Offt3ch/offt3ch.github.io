@@ -16,12 +16,12 @@ timezone: America/Indiana/Indianapolis
 
 title: Eric Gaby # the main title
 
-tagline: Security engineering, appsec, and CTF craft # it will display as the subtitle
+tagline: AppSec, CTFs, and secure software # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Personal site for Eric Gaby: security engineer, application security practitioner,
-  CTF builder, and lifelong learner focused on secure software and practical
-  technical education.
+  Eric Gaby's personal website and blog about application security, web
+  application penetration testing, CTF challenge development, secure software,
+  infrastructure, and practical technical education.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -87,8 +87,8 @@ pageviews:
 #
 # Available options:
 #
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
+#     light -- Use the light color scheme
+#     dark -- Use the dark color scheme
 #
 theme_mode: # [light | dark]
 
